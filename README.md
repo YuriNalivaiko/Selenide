@@ -1,4 +1,4 @@
-
+[![Build status](https://ci.appveyor.com/api/projects/status/6f0xq6dpmjt6qcvq?svg=true)](https://ci.appveyor.com/project/YuriNalivaiko/selenide)
 
 # Домашнее задание к занятию «2.2. Selenide»
 
